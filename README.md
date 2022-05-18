@@ -1,0 +1,2 @@
+# MyFavoriateAlfredPlugins
+收藏喜欢用的Alfred插件
